@@ -2,5 +2,5 @@
 
 List of few of the feeds I am following, which I need to trim.
 
-* https://f33ds.kaloyan.info/market-measures.rss
-* https://f33ds.kaloyan.info/options-jive.rss
+* http://f33ds.kaloyan.info/market-measures.rss
+* http://f33ds.kaloyan.info/options-jive.rss
