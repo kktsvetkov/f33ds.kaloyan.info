@@ -54,5 +54,6 @@ class tt_rss
                 chdir(__DIR__);
                 shell_exec('git add docs/* last.*.rss');
                 shell_exec('git commit -m "' . gmdate('c') . '" ');
+		shell_exec('git push');
 	}
 }
